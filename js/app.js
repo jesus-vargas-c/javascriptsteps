@@ -29,7 +29,7 @@ var guessField = document.querySelector('guessField');
 var guessCount = 1;
 var resetButton;
 
-var checkGuess = function()
+function checkGuess()
 {
     alert('I am a placeholder');
 }
